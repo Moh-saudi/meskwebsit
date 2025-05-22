@@ -83,14 +83,6 @@ const Section6 = () => (
                 &ldquo;Smart Solutions for a Sustainable Tomorrow&rdquo;
               </p>
               <div className="flex items-center">
-                <div className="relative w-32 h-16">
-                  <Image
-                    src="/images/mohamed-saudi-signature.png"
-                    alt="Mohamed Saudi Signature"
-                    fill
-                    className="object-contain"
-                  />
-                </div>
                 <div>
                   <p className="text-xl font-bold text-white">Mohamed Saudi</p>
                   <p className="text-lg text-white">CEO of Mesk LLC</p>
